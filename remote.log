@@ -1,0 +1,1 @@
+bec28ed1-d161-4ad9-905f-398513903b7d autoenable=true bucket=primap-datalad-test2 datacenter=US encryption=none host=2aa5172b2bba093c516027d6fa13cdc8.r2.cloudflarestorage.com name=public-r2 port=80 protocol=https publicurl=https://pub-cd7a79850f3942a8a2421762b86119dd.r2.dev region=auto signature=v4 storageclass=STANDARD type=S3 timestamp=1733160566s
